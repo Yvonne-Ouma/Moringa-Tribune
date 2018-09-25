@@ -1,0 +1,16 @@
+                   List of relations
+ Schema |            Name            | Type  |  Owner  
+--------+----------------------------+-------+---------
+ public | auth_group                 | table | yyvonne
+ public | auth_group_permissions     | table | yyvonne
+ public | auth_permission            | table | yyvonne
+ public | auth_user                  | table | yyvonne
+ public | auth_user_groups           | table | yyvonne
+ public | auth_user_user_permissions | table | yyvonne
+ public | django_admin_log           | table | yyvonne
+ public | django_content_type        | table | yyvonne
+ public | django_migrations          | table | yyvonne
+ public | django_session             | table | yyvonne
+ public | news_editor                | table | yyvonne
+(11 rows)
+
